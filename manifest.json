@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+
+    "name": "Padi Da",
+    "description": "Dei Parama, Padi Da!",
+    "version": "1.0.0",
+
+    "homepage_url": "https://github.com/thenithinbalaji",
+    
+    "icons": {
+        "16":  "assets/16px.png",
+        "48":  "assets/48px.png",
+        "64":  "assets/64px.png",
+        "128": "assets/128px.png"
+    },
+
+    "permissions": [
+        "storage",
+        "tabs"
+    ],
+
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["content.js"]
+        }
+
+    ],
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Padi Da",
+        "default_icon": {
+            "16":  "assets/16px.png",
+            "48":  "assets/48px.png",
+            "64":  "assets/64px.png",
+            "128": "assets/128px.png"
+        }
+    }
+
+}

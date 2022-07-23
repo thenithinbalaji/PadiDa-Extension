@@ -1,0 +1,25 @@
+body {
+    width: 250px;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    margin: 20px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+button {
+    padding: 5px;
+    margin: 6px;
+    width: 200px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: #ffc400;
+}
+
+button:hover{
+    background-color: #ce9f04;
+}
