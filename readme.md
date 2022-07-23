@@ -8,7 +8,7 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 + Extract this zip to a location and make sure not to move those files from that location, because these are the extension's files. Recommended to put it in a folder in your favorite place and name it "Don't Delete To Pass The Exams".
 + Open the Extension Management page by navigating to 
 ```
-  chrome://extensions.
+  chrome://extensions
 ```
 + Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
 
