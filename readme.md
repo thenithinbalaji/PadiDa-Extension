@@ -10,9 +10,7 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 ```
   chrome://extensions
 ```
-+ Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
-
-+ Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then select Extensions
++ Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu or by clicking on the Chrome menu, hovering over More Tools then select Extensions
 
 | Unpacking the Extension | Pinning the extension |
 |:------------------------:|:----------------------------------------------:|
@@ -22,9 +20,13 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 + Click the Load unpacked button and select the unzipped folder containing `manifest.json`.
 + By default, extensions appear in the extensions menu. Pinning the extension will display the icon in the toolbar.
 
-# How to use?
+# 🤓 How to use?
 + Go to the website that's distracting you.
 + Click on the extension and mark it as **'A Distraction'**.
 + If you want to unmark the same website, click on the extension again and mark it as **'Not a Distraction'**.
 
 <p align = "center"><img src="readme assets\extension.png"></p>
+
+# 📒 Note
+Works on other Chromium-based browsers - Microsoft Edge, Epic, Opera, Brave, etc.  
+
