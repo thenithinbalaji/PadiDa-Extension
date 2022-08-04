@@ -16,6 +16,8 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 |:------------------------:|:----------------------------------------------:|
 | <img src="readme assets\load unpacked.png"> | <img src="readme assets\pinning extension.png"> |
 
+<br>
+
 + Enable Developer Mode by clicking the toggle switch next to Developer mode.
 + Click the Load unpacked button and select the unzipped folder containing `manifest.json`.
 + By default, extensions appear in the extensions menu. Pinning the extension will display the icon in the toolbar.
