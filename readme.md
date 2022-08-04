@@ -1,4 +1,4 @@
-# 🤔 Dei Parama, Padi Da
+# Dei Parama, Padi Da
 A Chrome browser extension made with JS, extension manifest version 3. It helps you be free of distractions and focus on your studies. Made by TheNithinBalaji.
 
 # 💻 How to install?
@@ -27,6 +27,6 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 
 <p align = "center"><img src="readme assets\extension.png"></p>
 
-# 📒 Note
+# 📖 Note
 Works on other Chromium-based browsers - Microsoft Edge, Epic, Opera, Brave, etc.  
 
