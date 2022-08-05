@@ -4,8 +4,8 @@ A Chrome browser extension made with JS, extension manifest version 3. It helps 
 # 💻 How to install?
 Since uploading an extension to the chrome store costs around $5, I haven't done it (I'm broke guys). Please follow these steps to install it from a zip file.
 
-+ <a href = "https://github.com/thenithinbalaji/PadiDa-Extension/releases/download/1.0.0/padida.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/PadiDa-Extension/releases/download/1.0.0/padida.rar" >Click here to download the rar</a>
-+ Extract this zip to a location and make sure not to move those files from that location, because these are the extension's files. Recommended to put it in a folder in your favorite place and name it "Don't Delete To Pass The Exams".
++ <a href = "https://github.com/thenithinbalaji/PadiDa-Extension/releases/download/1.0.1/padida.zip" >Click here to download the zip</a> or  <a href = "https://github.com/thenithinbalaji/PadiDa-Extension/releases/download/1.0.1/padida.rar" >Click here to download the rar</a>
++ Extract this zip to a location and make sure not to move those files from that location, because these are the extension's files. Recommended to put it in a folder in your favorite place and name it in a way you won't forget.
 + Open the Extension Management page by navigating to 
 ```
   chrome://extensions
@@ -15,7 +15,6 @@ Since uploading an extension to the chrome store costs around $5, I haven't done
 | Unpacking the Extension | Pinning the extension |
 |:------------------------:|:----------------------------------------------:|
 | <img src="readme assets\load unpacked.png"> | <img src="readme assets\pinning extension.png"> |
-
 <br>
 
 + Enable Developer Mode by clicking the toggle switch next to Developer mode.
