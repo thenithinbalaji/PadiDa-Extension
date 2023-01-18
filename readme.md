@@ -1,6 +1,8 @@
 # Dei Parama, Padi Da
 A Chrome browser extension made with JS, extension manifest version 3. It helps you be free of distractions and focus on your studies. Made by TheNithinBalaji.
 
+<a href="https://www.buymeacoffee.com/thenithinbalaji" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # 💻 How to install?
 Since uploading an extension to the chrome store costs around $5, I haven't done it (I'm broke guys). Please follow these steps to install it from a zip file.
 
